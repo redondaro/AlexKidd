@@ -218,7 +218,7 @@ public class Jogo {
         alex.exibir(cameraX); //exibir alex
         
         if (dica) { //exibir textos de dicas
-            janela.drawText("Alex Kidd in Miracle World - SECOMPP 2018 Edition"
+            janela.drawText("Alex Kidd in Miracle World - SECOMPP 2019 Edition"
                     +"          R$: " + alex.getDinheiro() + ",00"
                     +"          FPS: " + fps, 10, 20, Color.white, new Font("Default", 0, 14));
             janela.drawText("Setas ← ou →: movimento     S: soco     ↑ ou D: pulo"
