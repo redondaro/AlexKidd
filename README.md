@@ -25,6 +25,8 @@ Seguem os respectivos valores de cinza (arquivo pgm) e a cor entre parênteses (
 - 182 (verde) = baú de item
 - 237 (amarelo) = inimigo
 
+Na figura abaixo, temos: no canto superior esquerdo está o arquivo png aberto em um editor de imagens, abaixo os objetos do cenário (item, nuvem, ...), à direita o arquivo pgm aberto em um editor de texto, e na parte de baixo, o cenário gerado.
+
 ![](/mapa_objetos.png)
 
 
